@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Computer Vision & Image Processing Engineer
+  Computer Vision Software Engineer
 </h3>
 
 <!-- Typing animation -->
@@ -53,32 +53,52 @@
 - FFT, Hough Transform, Marr-Hildreth edge detection; real-time responsive GUI
 - SIFT / SURF / ORB feature extraction · camera calibration · k-means segmentation
 - Modular architecture separating processing logic from UI rendering; used as TA teaching material
-
 ---
-
+ 
 ## 🛠️ Tech Stack
-
+ 
 #### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+
 </p>
 
 #### Computer Vision & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black"/>
+<p align="left">
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://onnx.ai/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="onnx" width="40" height="40"/>
+  </a>
 </p>
 
 #### Tools & Systems
-<p>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+<p align="left">
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+  </a>
 </p>
