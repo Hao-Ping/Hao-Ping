@@ -21,7 +21,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="mailto:haopingchen1999@gmail.com">
+  <a href="mailto:dannyhpchen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/haopingchen" target="_blank">
